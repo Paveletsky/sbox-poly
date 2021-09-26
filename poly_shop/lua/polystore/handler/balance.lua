@@ -1,8 +1,6 @@
-require 'chttp'
+if SERVER then require 'chttp' end
 
 local SECRET_KEY = "eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6InlkbmhpOC0wMCIsInVzZXJfaWQiOiI3OTUzMjgyNTc1MiIsInNlY3JldCI6IjllZmM1YTFiOWUzOTIyYTk2YmY3NWVjMjMzZDVkMjQxMjEwZGUxNjJlNmM4ZTRiMzU0MWNhZjcwNWNhNWIxNDYifX0="
-
-util.AddNetworkString( 'polyshop.openLink' )
 
 local function uuid_generate()
 

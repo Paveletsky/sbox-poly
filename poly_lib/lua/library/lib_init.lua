@@ -1,3 +1,5 @@
+-- хуй
+
 GM = GAMEMODE or GM
 
 library.shared('funcs/lib')

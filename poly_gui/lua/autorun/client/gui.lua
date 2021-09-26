@@ -117,7 +117,7 @@ local function drawGui(ply)
 		} draw.Text {
             text = 'PING: ' .. ping,
             font = 'library-hud.small',
-            pos = { left + 180, top },
+            pos = { left + 170, top },
             xalign = TEXT_ALIGN_LEFT,
             yalign = TEXT_ALIGN_CENTER,
             color = Color(255,255,255),

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350_heavy_duty/hull"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/f350_heavy_duty/hull_env"
+"$blendtintbybasealpha" 1
+}

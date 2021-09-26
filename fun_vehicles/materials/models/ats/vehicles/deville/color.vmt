@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/deville/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/deville/env"
+"$blendtintbybasealpha" 1
+}

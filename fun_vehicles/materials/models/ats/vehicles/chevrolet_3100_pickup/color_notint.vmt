@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/chevrolet_3100_pickup/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/chevrolet_3100_pickup/env"
+"$blendtintbybasealpha" 1
+}

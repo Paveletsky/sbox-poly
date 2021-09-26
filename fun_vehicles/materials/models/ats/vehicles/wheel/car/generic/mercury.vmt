@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/wheel/car/generic/mercury"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/wheel/car/generic/mercury_env"
+}

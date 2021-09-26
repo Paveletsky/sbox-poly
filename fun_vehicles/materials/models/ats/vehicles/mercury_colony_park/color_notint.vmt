@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/mercury_colony_park/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/mercury_colony_park/env"
+"$blendtintbybasealpha" 1
+}

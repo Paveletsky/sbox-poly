@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/charger/utah_hp"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.5 .5 .5]"
+"$blendtintbybasealpha" 1
+}

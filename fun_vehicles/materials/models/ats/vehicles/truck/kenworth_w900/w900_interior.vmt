@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/kenworth_w900/w900_interior_clr"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/kenworth_w900/w900_interior_env"
+"$blendtintbybasealpha" 1
+}

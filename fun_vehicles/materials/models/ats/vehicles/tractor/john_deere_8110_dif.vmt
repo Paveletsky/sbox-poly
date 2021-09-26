@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/tractor/john_deere_8110_dif"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/tractor/john_deere_8110_spec"
+"$blendtintbybasealpha" 1
+}

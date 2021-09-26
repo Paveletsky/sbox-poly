@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/wpass/wpass.vtf"
+"$blendtintbybasealpha" 1
+}

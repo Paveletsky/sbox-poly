@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/event/a6_crashed/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/event/a6_crashed/env"
+"$blendtintbybasealpha" 1
+}

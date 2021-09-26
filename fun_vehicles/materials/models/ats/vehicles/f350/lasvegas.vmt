@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350/lasvegas"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/f350/lasvegas_env"
+}
+

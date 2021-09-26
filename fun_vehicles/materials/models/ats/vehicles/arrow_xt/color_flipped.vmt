@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/arrow_xt/color_flipped"
+"$bumpmap" "models/ats/vehicles/arrow_xt/norm_env"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$blendtintbybasealpha" 1
+}

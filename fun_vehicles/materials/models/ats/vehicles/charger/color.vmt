@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/charger/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/charger/env"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/range_rover/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/range_rover/env"
+"$blendtintbybasealpha" 1
+}

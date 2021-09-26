@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/international_lonestar/step_alpha"
+"$bumpmap" "models/ats/vehicles/truck/international_lonestar/step_nmap"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$alphatest" 1
+}

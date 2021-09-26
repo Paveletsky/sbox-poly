@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ats/vehicles/mutt_578d/mutt_mesh_co"
+	"$translucent" 1
+}

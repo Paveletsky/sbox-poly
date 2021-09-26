@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/chevy_low_cab/color"
+"$envmap" "env_cubemap"
+"$bumpmap" "models/ats/vehicles/chevy_low_cab/normal"
+"$blendtintbybasealpha" 1
+"$normalmapalphaenvmapmask" "1"
+}

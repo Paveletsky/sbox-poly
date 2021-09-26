@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f_150/escort_paint"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.5 .5 .5]"
+"$blendtintbybasealpha" 1
+}

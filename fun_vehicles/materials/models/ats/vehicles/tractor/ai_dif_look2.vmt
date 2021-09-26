@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/tractor/ai_dif_look2"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/tractor/ai_spec_look2"
+"$blendtintbybasealpha" 1
+}

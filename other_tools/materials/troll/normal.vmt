@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "troll/normal"
+	"$translucent" 1
+}

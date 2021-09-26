@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/mack_rd690/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/mack_rd690/env"
+"$blendtintbybasealpha" 1
+}

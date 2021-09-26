@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/international_lonestar/lights"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/international_lonestar/lights_env"
+"$blendtintbybasealpha" 1
+}

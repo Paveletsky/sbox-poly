@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ats/vehicles/sweeper/decal"
+	"$translucent" 1
+}

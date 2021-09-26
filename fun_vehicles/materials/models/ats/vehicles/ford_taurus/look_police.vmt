@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/ford_taurus/look_police"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.5 .5 .5]"
+"$blendtintbybasealpha" 1
+}

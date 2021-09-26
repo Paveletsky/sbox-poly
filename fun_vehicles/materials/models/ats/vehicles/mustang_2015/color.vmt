@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/mustang_2015/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/mustang_2015/env"
+"$blendtintbybasealpha" 1
+}

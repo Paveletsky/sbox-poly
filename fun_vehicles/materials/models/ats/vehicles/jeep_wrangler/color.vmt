@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/jeep_wrangler/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/jeep_wrangler/env"
+"$blendtintbybasealpha" 1
+}

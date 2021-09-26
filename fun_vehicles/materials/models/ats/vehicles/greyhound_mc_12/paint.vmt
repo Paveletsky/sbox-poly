@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/greyhound_mc_12/paint"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.7 .7 .7]"
+"$blendtintbybasealpha" 1
+}

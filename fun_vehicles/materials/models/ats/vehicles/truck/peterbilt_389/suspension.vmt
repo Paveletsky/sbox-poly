@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/peterbilt_389/suspension"
+"$bumpmap" "models/ats/vehicles/truck/peterbilt_389/suspension_n"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$blendtintbybasealpha" 1
+}

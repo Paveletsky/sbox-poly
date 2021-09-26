@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/greyhound_mc_12/greyhound_mc_12_interior"
+"$blendtintbybasealpha" 1
+}

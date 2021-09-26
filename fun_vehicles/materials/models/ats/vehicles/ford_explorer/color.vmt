@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/ford_explorer/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/ford_explorer/env"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/greyhound_mc_12/greyhound_mc_12_exterior"
+"$bumpmap" "models/ats/vehicles/greyhound_mc_12/greyhound_mc_12_normenv"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/ext_interior/kenworth_t680/interior_n_g"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/xc90/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/xc90/env"
+"$blendtintbybasealpha" 1
+}

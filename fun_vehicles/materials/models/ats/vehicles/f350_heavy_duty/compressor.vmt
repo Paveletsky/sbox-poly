@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350_heavy_duty/compressor"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/f350_heavy_duty/compressor_env"
+"$blendtintbybasealpha" 1
+}

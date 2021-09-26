@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/wheel/car/generic/17in_cadillac"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/wheel/car/generic/17in_cadillac_env"
+}

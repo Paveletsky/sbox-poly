@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/package_van/uds"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/package_van/uds_env"
+}

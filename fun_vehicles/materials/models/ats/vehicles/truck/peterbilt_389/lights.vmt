@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/peterbilt_389/lights"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/peterbilt_389/lights_env"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/ford_smax/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/ford_smax/env"
+"$blendtintbybasealpha" 1
+}

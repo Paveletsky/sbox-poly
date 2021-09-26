@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/ford_transit_2016/glass"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/ford_transit_2016/glass_env"
+"$blendtintbybasealpha" 1
+}

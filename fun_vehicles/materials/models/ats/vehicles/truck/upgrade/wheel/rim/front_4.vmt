@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/wheel/rim/front_4"
+"$bumpmap" "models/ats/vehicles/truck/upgrade/wheel/rim/front_4_n"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+}

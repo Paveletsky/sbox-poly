@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/international_lonestar/interior_lux"
+"$blendtintbybasealpha" 1
+}

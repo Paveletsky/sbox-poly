@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/international_lonestar/mudflap"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/international_lonestar/mudflap_env"
+"$blendtintbybasealpha" 1
+}

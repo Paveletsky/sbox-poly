@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/yard_truck/yard_truck"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/yard_truck/yard_truck_env"
+"$blendtintbybasealpha" 1
+}

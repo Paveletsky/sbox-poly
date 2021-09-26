@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/peterbilt_389/chrome"
+"$bumpmap" "models/ats/vehicles/truck/peterbilt_389/chrome_n"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$blendtintbybasealpha" 1
+}
+

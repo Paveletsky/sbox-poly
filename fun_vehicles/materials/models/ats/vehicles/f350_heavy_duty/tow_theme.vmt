@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350_heavy_duty/tow_theme"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/f350_heavy_duty/tow_theme_env"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/wolverine/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/wolverine/env"
+"$blendtintbybasealpha" 1
+}

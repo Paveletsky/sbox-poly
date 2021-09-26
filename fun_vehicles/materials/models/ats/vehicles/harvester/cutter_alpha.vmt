@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/harvester/cutter_c"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/harvester/cutter_env"
+"$alphatest" 1
+}

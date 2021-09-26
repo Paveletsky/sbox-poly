@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350_heavy_duty/d_plate"
+"$bumpmap" "models/ats/vehicles/f350_heavy_duty/d_plate_n"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+"$blendtintbybasealpha" 1
+}

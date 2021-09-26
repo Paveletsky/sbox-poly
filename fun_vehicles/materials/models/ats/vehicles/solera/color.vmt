@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/solera/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/solera/color_env"
+"$blendtintbybasealpha" 1
+}

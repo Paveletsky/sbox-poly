@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/share/textures/metal/chassis_base"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/share/textures/metal/chassis_env"
+"$blendtintbybasealpha" 1
+}

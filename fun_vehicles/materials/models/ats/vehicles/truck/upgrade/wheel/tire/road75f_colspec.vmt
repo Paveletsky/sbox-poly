@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/wheel/tire/road75f_colspec"
+"$bumpmap" "models/ats/vehicles/truck/upgrade/wheel/tire/road75f_norm"
+"$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" "1"
+}

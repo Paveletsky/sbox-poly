@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/dodge_ram_2500/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/dodge_ram_2500/env"
+"$blendtintbybasealpha" 1
+}

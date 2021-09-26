@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/oldsmobile/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/oldsmobile/env"
+"$blendtintbybasealpha" 1
+}

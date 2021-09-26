@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/ext_interior/volvo_vnl/interior_standard"
+"$blendtintbybasealpha" 1
+}

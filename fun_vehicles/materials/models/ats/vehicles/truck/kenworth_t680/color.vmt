@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/kenworth_t680/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/kenworth_t680/env"
+"$envmaptint" "[.75 .75 .75]"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/special/cargo_01"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/special/cargo_01_env"
+"$blendtintbybasealpha" 1
+}

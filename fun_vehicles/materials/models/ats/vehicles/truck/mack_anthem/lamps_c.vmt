@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/mack_anthem/lamps_c"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/truck/mack_anthem/lamps_env"
+"$blendtintbybasealpha" 1
+}

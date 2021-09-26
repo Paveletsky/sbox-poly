@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/f350/generic1"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/f350/generic1_env"
+}

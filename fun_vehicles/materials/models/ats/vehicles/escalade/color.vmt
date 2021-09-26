@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/escalade/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/escalade/env"
+"$blendtintbybasealpha" 1
+}

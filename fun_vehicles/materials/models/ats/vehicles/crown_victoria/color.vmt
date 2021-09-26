@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/crown_victoria/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/crown_victoria/env"
+"$blendtintbybasealpha" 1
+}

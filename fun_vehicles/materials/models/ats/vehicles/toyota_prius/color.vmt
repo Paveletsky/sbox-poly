@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/toyota_prius/color"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/toyota_prius/env"
+"$blendtintbybasealpha" 1
+}

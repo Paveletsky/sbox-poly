@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/volvo_vnl/lights"
+"$envmapmask" "models/ats/vehicles/truck/volvo_vnl/lights_env"
+"$envmap" "env_cubemap"
+"$blendtintbybasealpha" 1
+}

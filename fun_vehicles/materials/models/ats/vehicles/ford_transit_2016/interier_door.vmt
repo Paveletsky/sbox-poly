@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/ford_transit_2016/interier_door"
+"$blendtintbybasealpha" 1
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/charger/police_equ"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/charger/police_equ_env"
+}

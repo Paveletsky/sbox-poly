@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/jeep_cherokee/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/jeep_cherokee/env"
+"$blendtintbybasealpha" 1
+}

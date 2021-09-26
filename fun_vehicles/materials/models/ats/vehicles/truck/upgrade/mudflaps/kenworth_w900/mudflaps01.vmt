@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/upgrade/mudflaps/kenworth_w900/mudflaps01"
+"$blendtintbybasealpha" 1
+}

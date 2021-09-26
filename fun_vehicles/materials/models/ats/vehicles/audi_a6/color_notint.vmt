@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/audi_a6/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/audi_a6/env"
+"$blendtintbybasealpha" 1
+}

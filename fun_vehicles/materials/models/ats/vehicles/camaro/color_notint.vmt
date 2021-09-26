@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/camaro/color_notint"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/camaro/env"
+"$blendtintbybasealpha" 1
+}

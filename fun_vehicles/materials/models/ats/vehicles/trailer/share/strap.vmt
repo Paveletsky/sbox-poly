@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/trailer/share/strap"
+"$envmap" "env_cubemap"
+"$envmapmask" "models/ats/vehicles/trailer/share/strap_env"
+"$blendtintbybasealpha" 1
+}

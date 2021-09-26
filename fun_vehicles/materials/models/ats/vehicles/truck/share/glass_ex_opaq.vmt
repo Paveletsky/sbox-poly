@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ats/vehicles/truck/share/glass_ex"
+"$envmap" "env_cubemap"
+}

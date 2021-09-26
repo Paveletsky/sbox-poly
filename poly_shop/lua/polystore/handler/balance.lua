@@ -63,7 +63,7 @@ concommand.Add( 'polyshop.pay', function( ply, url, args )
 
         method = "PUT",
 
-        url = "https://api.qiwi.com/partner/bill/v1/bills/" .. uuid_generate(),
+        url = "https://api.qiwi.com/partner/bill/v1/bills/ASFQWPQFKOQWKFOPQWKFPOKQWPFKQWOPFKOP",
 
         headers = {
 

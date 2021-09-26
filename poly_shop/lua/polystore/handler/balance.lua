@@ -49,7 +49,7 @@ concommand.Add( 'polyshop.pay', function( ply, url, args )
 
         success = function( code, body, headers ) MsgC( Color(255,120,0), "[~ Poly] ", Color(255,255,255), ply:SteamID() .. ' создал счет - ' .. util.JSONToTable(body)["billId"] .. "\n") 
 
-            ply:ChatPrint( util.JSONToTable(body)["payUrl"] )
+            ply:ChatPrint( '[~] Запрос создан, ссылка на оплату получена: ' .. util.JSONToTable(body)["payUrl"] )
 
             timer.Simple( 900, function() 
 

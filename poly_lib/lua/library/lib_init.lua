@@ -1,34 +1,31 @@
--- хуй
--- твой маленький
-
 GM = GAMEMODE or GM
 
-library.shared('funcs/lib')
+library.shared 'funcs/lib'
 
-library.client('chips/restart/client')
-library.server('chips/restart/server')
+library.client 'chips/restart/client' 
+library.server 'chips/restart/server' 
 
-library.shared('api/webhook')
+library.shared 'api/webhook'
 
-library.client('chips/buildzone/client')
-library.server('chips/buildzone/server')
-library.server('chips/ranks')
-library.client('chips/welcome')
+library.client 'chips/buildzone/client'
+library.server 'chips/buildzone/server'
+library.server 'chips/ranks'
+library.client 'chips/welcome'
 
-library.shared('library/netwrapper/sh_netwrapper')
-library.client('library/netwrapper/cl_netwrapper')
-library.server('library/netwrapper/sv_netwrapper')
+library.shared 'library/netwrapper/sh_netwrapper'
+library.client 'library/netwrapper/cl_netwrapper'
+library.server 'library/netwrapper/sv_netwrapper'
 
-library.shared('library/netstream')
-library.shared('library/netstream2')
+library.shared 'library/netstream'
+library.shared 'library/netstream2'
 
-library.module('library/netwrapper')
+library.module 'library/netwrapper'
 
-library.shared('library/promise')
-library.shared('library/pon')
-library.shared('library/string')
-library.shared('library/von')
-library.shared('library/utf8')
+library.shared 'library/promise'
+library.shared 'library/pon'
+library.shared 'library/string'
+library.shared 'library/von'
+library.shared 'library/utf8'
 
 local function spawnColide(ply)
     ply:SetCollisionGroup(11)

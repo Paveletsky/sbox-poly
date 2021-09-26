@@ -47,16 +47,22 @@ concommand.Add( 'polyshop.pay', function( ply, url, args )
 
         failed = function( code ) print( "shit" ) end,
 
-        success = function( code, body, headers ) MsgC( Color(255,120,0), "[~ Poly] ", Color(255,255,255), ply:SteamID() .. ' создал счет - ' .. util.JSONToTable(body)["billId"] .. "\n") 
+        success = function( code, body, headers ) 
+        
+            timer.Simple( 15, function()
 
-            ply:ChatPrint( util.JSONToTable(body)["payUrl"] )
+                MsgC( Color(255,120,0), "[~ Poly] ", Color(255,255,255), ply:SteamID() .. ' создал счет - ' .. util.JSONToTable(body)["billId"] .. "\n") 
 
-            timer.Simple( 900, function() 
+                ply:ChatPrint( util.JSONToTable(body)["payUrl"] )
 
-                if util.JSONToTable(body)['status']['value'] == 'WAITING' then ply:RemovePData( 'invoiceData' ) ply:ChatPrint( '[~] Ваш преждний неоплаченный счет был удален.' ) end 
+                timer.Simple( 900, function() 
+
+                    if util.JSONToTable(body)['status']['value'] == 'WAITING' then ply:RemovePData( 'invoiceData' ) ply:ChatPrint( '[~] Ваш преждний неоплаченный счет был удален.' ) end 
+                    
+                    if util.JSONToTable(body)['status']['value'] == 'PAID' then ply:ChatPrint( '[~] Вы всё еще не получили кредиты. Нажмите "обновить" в магазине.' ) end
                 
-                if util.JSONToTable(body)['status']['value'] == 'PAID' then ply:ChatPrint( '[~] Вы всё еще не получили кредиты. Нажмите "обновить" в магазине.' ) end
-            
+                end)
+
             end)
 
         end,

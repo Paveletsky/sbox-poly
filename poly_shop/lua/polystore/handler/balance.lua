@@ -1,4 +1,4 @@
-if SERVER then require 'chttp' end
+require 'chttp'
 
 local SECRET_KEY = "eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6InlkbmhpOC0wMCIsInVzZXJfaWQiOiI3OTUzMjgyNTc1MiIsInNlY3JldCI6IjllZmM1YTFiOWUzOTIyYTk2YmY3NWVjMjMzZDVkMjQxMjEwZGUxNjJlNmM4ZTRiMzU0MWNhZjcwNWNhNWIxNDYifX0="
 
@@ -47,29 +47,23 @@ concommand.Add( 'polyshop.pay', function( ply, url, args )
 
         failed = function( code ) print( "shit" ) end,
 
-        success = function( code, body, headers ) 
-        
-            timer.Simple( 15, function()
+        success = function( code, body, headers ) MsgC( Color(255,120,0), "[~ Poly] ", Color(255,255,255), ply:SteamID() .. ' создал счет - ' .. util.JSONToTable(body)["billId"] .. "\n") 
 
-                MsgC( Color(255,120,0), "[~ Poly] ", Color(255,255,255), ply:SteamID() .. ' создал счет - ' .. util.JSONToTable(body)["billId"] .. "\n") 
+            ply:ChatPrint( util.JSONToTable(body)["payUrl"] )
 
-                ply:ChatPrint( util.JSONToTable(body)["payUrl"] )
+            timer.Simple( 900, function() 
 
-                timer.Simple( 900, function() 
-
-                    if util.JSONToTable(body)['status']['value'] == 'WAITING' then ply:RemovePData( 'invoiceData' ) ply:ChatPrint( '[~] Ваш преждний неоплаченный счет был удален.' ) end 
-                    
-                    if util.JSONToTable(body)['status']['value'] == 'PAID' then ply:ChatPrint( '[~] Вы всё еще не получили кредиты. Нажмите "обновить" в магазине.' ) end
+                if util.JSONToTable(body)['status']['value'] == 'WAITING' then ply:RemovePData( 'invoiceData' ) ply:ChatPrint( '[~] Ваш преждний неоплаченный счет был удален.' ) end 
                 
-                end)
-
+                if util.JSONToTable(body)['status']['value'] == 'PAID' then ply:ChatPrint( '[~] Вы всё еще не получили кредиты. Нажмите "обновить" в магазине.' ) end
+            
             end)
 
         end,
 
         method = "PUT",
 
-        url = "https://api.qiwi.com/partner/bill/v1/bills/ASFQWPQFKOQWKFOPQWKFPOKQWPFKQWOPFKOP",
+        url = "https://api.qiwi.com/partner/bill/v1/bills/" .. uuid_generate(),
 
         headers = {
 
